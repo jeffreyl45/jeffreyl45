@@ -23,6 +23,6 @@ I enjoy working on projects that solve real problems for users and taking owners
 
 ## Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/jeffreylu45/]
-- Portfolio: [https://jeffreyl45.github.io/jefflu2/]
-- Email: [jefflu288@gmail.com]
+- LinkedIn: [linkedin.com/in/jeffreylu45](https://www.linkedin.com/in/jeffreylu45/)
+- Portfolio: [jeffreyl45.github.io/jefflu2](https://jeffreyl45.github.io/jefflu2/)
+- Email: [jefflu288@gmail.com](mailto:jefflu288@gmail.com)
