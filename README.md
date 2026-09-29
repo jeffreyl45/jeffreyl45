@@ -10,7 +10,7 @@ I enjoy working on projects that solve real problems for users and taking owners
 - 🎓 Computer Science @ McMaster University
 - 💻 Experience in full-stack and software engineering
 - 🚀 Previously worked at TELUS and Scotiabank
-- 🤝 Experience working direclty with clients to understand requirements and build tailored software solutions
+- 🤝 Experience working directly with clients to understand requirements and build tailored software solutions
 - 🔨 Currently learning React and developing AI Fluency
 - 📚 Interested in distributed systems, backend engineering, AI infrastructure, and full-stack development
 
