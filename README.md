@@ -7,7 +7,7 @@ I enjoy working on projects that solve real problems for users and taking owners
 
 ## About Me
 
-- 🎓 Computer Science @ McMaster University (expected May 2027)
+- 🎓 Computer Science @ McMaster University
 - 💻 Experience in full-stack and software engineering
 - 🚀 Previously worked at TELUS and Scotiabank
 - 🔨 Currently learning React and AI Fluency
