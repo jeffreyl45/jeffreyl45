@@ -1,6 +1,6 @@
 # Hi, I'm Jeffrey 👋
 
-I'm in my final year of Computer Science at McMaster University with 
+I'm in my fourth year of Computer Science at McMaster University with 
 experience building full-stack applications, backend services and machine learning projects.
 
 I enjoy working on projects that solve real problems for users and taking ownership across the stack from backend APIs and databases to user-friendly frontend interfaces.
